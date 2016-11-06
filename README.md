@@ -1,5 +1,5 @@
 # angular2-getting-started
-this is the starter pack for angular2.
+Angular2 starter pack
 
 ## Usage
 
